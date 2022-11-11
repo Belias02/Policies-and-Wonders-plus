@@ -27,7 +27,8 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"
+                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>",
+                    "Provides a [Barracks] in your first [3] cities for free",
                 ],
                 "row": 1,
                 "column": 4
@@ -49,7 +50,6 @@
                 "name": "Military Caste",
                 "uniques": [
                     "[+1 Happiness, +2 Culture] [in all cities with a garrison]",
-                    "New [Military] units start with [10] Experience [in all cities with a garrison]",
                 ],
                 "requires": ["Discipline"],
                 "row": 2,
@@ -63,8 +63,8 @@
                     "[+1 Happiness] from every [Castle]",
                     "[+1 Happiness] from every [Arsenal]",
                     "[+1 Happiness] from every [Military Base]",
-                    "[+1] Movement <for [Mounted] units>",
-                    "[+1] Sight <for [Scout] units>",
+                    "[+1] Movement <for [Great General] units>",
+                    "[+1] Sight <for [Great General] units>",
                 ],
                 "requires": ["Military Caste"],
                 "row": 3,
