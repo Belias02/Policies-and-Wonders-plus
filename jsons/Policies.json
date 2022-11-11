@@ -39,7 +39,7 @@
                     "[+1 Culture] from every [Walls]",
                     "[+1 Culture] from every [Castle]",
                     "[+1 Culture] from every [Arsenal]",
-                    "[+1 Culture] from every [Military Base]"
+                    "[+1 Culture] from every [Military Base]",
                 ],
                 "requires": ["Warrior Code"],
                 "row": 2,
@@ -49,7 +49,7 @@
                 "name": "Military Caste",
                 "uniques": [
                     "[+1 Happiness, +2 Culture] [in all cities with a garrison]"
-                    "New [Military] units start with [10] Experience [in all cities with a garrison]"
+                    "New [Military] units start with [10] Experience [in all cities with a garrison]",
                 ],
                 "requires": ["Discipline"],
                 "row": 2,
@@ -74,7 +74,7 @@
                 "name": "Honor Complete",
                 "uniques": [
                     "Earn [25]% of killed [Military] unit's [Cost] as [Gold]",
-                    "Provides a [Walls] in your first [4] cities for free"
+                    "Provides a [Walls] in your first [4] cities for free",
                 ]
     },
     ]
