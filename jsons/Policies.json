@@ -73,10 +73,8 @@
             {
                 "name": "Honor Complete",
                 "uniques": [
-                    "Earn [25]% of killed [Military] unit's [Cost] as [Gold]"
-                    ""Provides a [Walls] in your first [4] cities for free"
+                    "Earn [25]% of killed [Military] unit's [Cost] as [Gold]",
+                    "Provides a [Walls] in your first [4] cities for free"
                 ]
-            }
-        ]
     },
     ]
