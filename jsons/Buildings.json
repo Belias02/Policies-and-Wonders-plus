@@ -9,4 +9,25 @@
 		"requiredTech": "Masonry",
 		"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
 	},
+{
+		"name": "The Pyramids",
+		"culture": 1,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"isWonder": true,
+		"uniques": ["[-25]% tile improvement construction time","[2] free [Worker] units appear",
+                "Gain a free [Burial Tomb] [in this city]"],
+		"requiredTech": "Masonry",
+		"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
+	},
+{
+		"name": "National Epic",
+		"cost": 125,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["Requires a [Monument] in all cities", "[+25]% Great Person generation [in this city]", "Cost increases by [30] per owned city",
+                "[+1 Culture] <starting from the [Medieval era]>", "[+1 Culture] <starting from the [Renaissance era]>", "[+1 Culture] <starting from the [Industrial era]>",
+                "[+1 Culture] <starting from the [Modern era]>", "[+1 Culture] <starting from the [Atomic era]>", "[+1 Culture] <starting from the [Information era]>", "[+1 Culture] <starting from the [Future era]>",
+]
+		"requiredTech": "Drama and Poetry"
+	},
 ]
