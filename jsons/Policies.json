@@ -145,7 +145,7 @@
                 "name": "Piety Complete",
                 "uniques": [
                     "[Faith] cost of purchasing items in cities [-20]%",
-                    "May choose [1] additional [Founder] beliefs when [enhancing] a religion",
+                    "Gain a free [Founder] belief",
                     "[+3 Gold, +3 Culture] from every [Holy site]"
                 ]
             }
