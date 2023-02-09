@@ -106,15 +106,18 @@
             },
             {
                 "name": "Mandate Of Heaven",
-                "uniques": ["[50]% of excess happiness converted to [Culture]"],
+                "uniques": ["[50]% of excess happiness converted to [Culture]",
+                          "[+1 Happiness] from every [Shrine]",
+                          "[+1 Happiness] from every [Temple]",
+],
                 "row": 1,
                 "column": 5
             },
             {
                 "name": "Theocracy",
-                "uniques": ["[+10]% [Gold] from every [Temple]",
-                          "[+1 Happiness] from every [Shrine]",
-                          "[+1 Happiness] from every [Temple]",
+                "uniques": ["[+15]% [Gold] from every [Temple]",
+                          "[+1 Culture] from every [Shrine]",
+                          "[+1 Culture] from every [Temple]",
                           ],
                 "requires": ["Organized Religion"],
                 "row": 2,
@@ -124,6 +127,7 @@
                 "name": "Reformation",
                 "uniques": [
                     "[+33]% [Culture] [in all cities with a world wonder]",
+                    "[+1 Culture] from every [Trading post]",
                     "Empire enters golden age"
                 ],
                 "requires": ["Organized Religion"],
@@ -132,7 +136,7 @@
             },
             {
                 "name": "Free Religion",
-                "uniques": ["[-10]% Culture cost of adopting new Policies"],
+                "uniques": ["[-17]% Culture cost of adopting new Policies"],
                 "requires": ["Mandate Of Heaven", "Reformation"],
                 "row": 3,
                 "column": 4
@@ -141,7 +145,7 @@
                 "name": "Piety Complete",
                 "uniques": [
                     "[Faith] cost of purchasing items in cities [-20]%",
-                    "[+10]% Natural religion spread [in all cities]",
+                    "May choose [1] additional [Founder] beliefs when [enhancing] a religion",
                     "[+3 Gold, +3 Culture] from every [Holy site]"
                 ]
             }
