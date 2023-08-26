@@ -144,7 +144,7 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-                    "[Faith] cost of purchasing items in cities [-20]%",
+                    "[Faith] cost of purchasing items in cities [-25]%",
                     "Gain a free [Founder] belief",
                     "[+3 Gold, +3 Culture] from every [Holy site]"
                 ]
@@ -283,6 +283,8 @@
                 "name": "Autocracy Complete",
                 "uniques": [
                     "[+25]% Strength <when attacking> <for [Military] units> <for [50] turns>",
+                    "Cities are razed [2] times as fast",
+                    "No movement cost to pillage",
                     "May buy [Great General] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>",
                 ]
             }
